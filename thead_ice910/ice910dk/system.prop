@@ -1,0 +1,8 @@
+ro.hardware.egl=VIVANTE
+sys.usb.controller=3fff10000.dwc3
+ro.serialno=1234567890
+ro.build.version.sdk=29
+
+ro.sf.lcd_density=320
+persist.sys.strictmode.visual=0
+persist.sys.strictmode.disable=1
